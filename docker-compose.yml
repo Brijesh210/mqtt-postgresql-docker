@@ -1,0 +1,9 @@
+services:
+  publish:
+    build:
+      context: .
+      dockerfile: ./docker/publish/Dockerfile
+  process:
+    build:
+      context: .
+      dockerfile: ./docker/process/Dockerfile

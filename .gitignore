@@ -1,0 +1,7 @@
+.idea/
+venv
+.pytest_cache
+src/HomeWork.egg-info
+__pycache__/
+*.py[cod]
+tests
