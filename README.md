@@ -1,6 +1,6 @@
 # Mqtt-PostgreSQL-Docker
 ___
-## HomeWork: 
+## Description: 
 Design, write in Python 3 and run a prototype application that processes measurement data
 from the MQTT message broker. Aggregate data at intervals of T seconds and save the following result in
 PostgreSQL after obtaining N measurements for the aggregation period.
